@@ -13,6 +13,8 @@
   <img  height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **CTM-SENAI-134/CTM-SENAI-134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
